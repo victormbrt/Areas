@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Areas</string>
+    <string name="triangulo">Area Triangulo</string>
+    <string name="cuadrado">Area Cuadrado</string>
+    <string name="Base">Base</string>
+    <string name="Altura">Altura</string>
+    <string name="CalcularT">Calcular Area cuadrado</string>
+    <string name="CalcularC">Calcular Area triangulo</string>
+    <string name="Regresar">Regresar</string>
+</resources>
